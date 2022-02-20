@@ -2,11 +2,13 @@
 The ability to sit in pillbox chairs, I only did the front lobby for now.
 
 You must have -
-qb-target
-PolyZones
+qb-target - https://github.com/BerkieBb/qb-target
+PolyZones - https://github.com/mkafrin/PolyZone
 
 INSTRUCTIONS
 
 1. Drag qb-pillboxsit into you resource folder
 2. Go to your server.cfg and add 'ensure qb-pillboxsit'
 3. Start your server
+
+If you need any assistance you can always dm me @Casper#2000 in discord!!!!!
